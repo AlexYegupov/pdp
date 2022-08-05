@@ -30,7 +30,7 @@
 20. 🟡 Typescript: [Official Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) [RU Video #1](https://www.youtube.com/watch?v=nyIpDs2DJ_c), [RU Video #2](https://www.youtube.com/watch?v=7NU6K4170As)
 21. ⚪️ [CSS Modules](https://github.com/css-modules/css-modules)
 22. 🔴 [GET vs POST](https://javascript.plainenglish.io/get-vs-post-are-you-confident-about-the-differences-189562fac0a7)
-23. 🔴 [REST API](https://restfulapi.net/)
+23. 🔴 [REST API](https://restfulapi.net/), [именование сложных действий в REST](https://habr.com/ru/post/251193/)
 24. 🟢 [What happens when you type a URL in the browser and press enter](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 25. 🟢 [Node.js tutorial](https://nodejs.dev/learn/introduction-to-nodejs)
 26. 🟢 [User Authentication in Web Apps](https://www.youtube.com/watch?v=F-sFp_AvHc8&ab_channel=freeCodeCamp.org)
